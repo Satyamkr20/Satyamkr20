@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there It's me Satyam 👋
 
-<!--
-**Satyamkr20/Satyamkr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/Satyamkr20/Satyamkr20.svg)](http://hits.dwyl.com/Satyamkr20/Satyamkr20)
 
-Here are some ideas to get you started:
+Gist About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Front End development
+- 🌱 I’m currently learning python programming
+- 👯 I’m looking to collaborate on creating a web development
+- 🤔 I’m looking for help with Backend development
+- 💬 Ask me about python and C programming and Front End development
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/satyamkumar20/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to cook and eat
+- 👨🏻‍💻   I try to: Go beyondand push the bounds
+
