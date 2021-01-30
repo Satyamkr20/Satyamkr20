@@ -12,5 +12,5 @@ Gist About me
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/satyamkumar20/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to cook and eat
-- 👨🏻‍💻   I try to: Go beyondand push the bounds
+- 👨🏻‍💻   I try to: Go beyond and push the bounds
 
