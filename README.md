@@ -14,8 +14,5 @@ Gist About me
 - ⚡ Fun fact: I like to cook and eat
 - 👨🏻‍💻   I try to: Go beyond and push the bounds
 
-# HITS
-
-![Hits](https://storage.googleapis.com/hit-counter/main.png)
 
 
