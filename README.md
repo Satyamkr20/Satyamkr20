@@ -13,4 +13,3 @@ Gist About me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to cook and eat
 - 👨🏻‍💻   I try to: Go beyond and push the bounds
-https://github.com/gjbae1212/hit-counter
