@@ -1,6 +1,7 @@
 ### Hi there It's me Satyam 👋
 
 [![HitCount](http://hits.dwyl.com/Satyamkr20/Satyamkr20.svg)](http://hits.dwyl.com/Satyamkr20/Satyamkr20)
+![ViewCount](https://views.whatilearened.today/views/github/<Satyamkr20>/<Satyamkr20>.svg)
 
 Gist About me
 
