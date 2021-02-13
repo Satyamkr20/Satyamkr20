@@ -1,5 +1,6 @@
 ### Hi there It's me Satyam 👋
 ![ViewCount](https://views.whatilearened.today/views/github/<Satyamkr20>/<Satyamkr20>.svg)
+
 Gist About me
 
 - 🔭 I’m currently working on Front End development
